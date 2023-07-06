@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "html_css_90_idnol",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-html-css/",
+    "build": "vite build --base=/html_css_90_idnol/",
     "preview": "vite preview"
   },
   "devDependencies": {
